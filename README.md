@@ -8,7 +8,7 @@
 
 * in the project folder type `pipenv install` to get all package dependencies
 
-* The load all the necessary NLTK packages via `pipenv run python get_nltk_packages.py`
+* Then load all the necessary NLTK packages via `pipenv run python get_nltk_packages.py`
 
 # Run the chatbot
 
