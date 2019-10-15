@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+nltk = "*"
+numpy = "*"
+sklearn = "*"
+pyyaml = "==5.1.2"
+pyaudio = {version = "*",sys_platform = "!= 'win32'"}
+speechrecognition = "*"
+pyowm = "*"
+
+[requires]
+python_version = "3.7"
