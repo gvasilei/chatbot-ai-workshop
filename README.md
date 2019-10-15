@@ -14,4 +14,4 @@
 
 `pipenv run python chatbot.py`
 
-For the initial definition switch to the `initial` git branch
+For the complete chatbot switch to the `master` git branch
