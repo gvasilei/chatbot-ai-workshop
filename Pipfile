@@ -9,7 +9,7 @@ verify_ssl = true
 nltk = "*"
 numpy = "*"
 sklearn = "*"
-pyyaml = "==5.1.2"
+pyyaml = "==5.4"
 pyaudio = {version = "*",sys_platform = "!= 'win32'"}
 speechrecognition = "*"
 pyowm = "*"
